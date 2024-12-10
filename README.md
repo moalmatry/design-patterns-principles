@@ -1,1 +1,1 @@
-# design-patterns-principles
+# Learning Design Patterns
