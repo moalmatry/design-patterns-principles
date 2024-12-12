@@ -6,6 +6,8 @@
 .pnp.js
 /pnpm-lock.yaml
 /dist
+.parcel-cache
+/.parcel-cache
 
 
 # testing
